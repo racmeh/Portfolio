@@ -1,4 +1,4 @@
 # Portfolio
-Personal portfolio website
+Responsive personal portfolio website
 
 Technologies used: HTML, CSS, JavaScript
