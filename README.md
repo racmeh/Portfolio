@@ -1,4 +1,4 @@
 # Portfolio
 Personal portfolio website
 
-Technologies used: HTML, CSS, jQuery, JavaScript
+Technologies used: HTML, CSS, JavaScript
